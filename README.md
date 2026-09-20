@@ -9,11 +9,11 @@ Phương pháp dạy học tích cực trrong ngành giáo dục tiểu học
 1. VẬN DỤNG MỘT SỐ KĨ THUẬT DẠY HỌC TÍCH CỰC TRONG DẠY HỌC HỌC PHẦN PHƯƠNG PHÁP DẠY HỌC TỰ NHIÊN – XÃ HỘI Ở TIỂU HỌC
 - Tác giả:
    Chủ nhiệm:  ThS. HOÀNG PHÚC NGÂN
-   Thành viên: ThS. NGUYỄN THỊ TỐ UYÊN
-               KHOA SƯ PHẠM TRUNG HỌC
-               ThS. NGUYỄN THỊ MỲ
-               TRƯỜNG PTTHSP TRÀNG AN
-               TS. LÊ NGUYỆT HẢI NINH
+   Thành viên: ThS. NGUYỄN THỊ TỐ UYÊN,
+               KHOA SƯ PHẠM TRUNG HỌC,
+               ThS. NGUYỄN THỊ MỲ,
+               TRƯỜNG PTTHSP TRÀNG AN,
+               TS. LÊ NGUYỆT HẢI NINH,
                KHOA SƯ PHẠM TRUNG HỌC
 - Năm xuất bản: 2024
 - Nguồn: Google Scholar ( http://thuvien.hluv.edu.vn:8080/bitstream/DHLH123/559/1/NCKH_Hoang_Phuc_Ngan.pdf )

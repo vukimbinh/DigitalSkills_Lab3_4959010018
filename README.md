@@ -15,8 +15,8 @@ Phương pháp dạy học tích cực trrong ngành giáo dục tiểu học
                TRƯỜNG PTTHSP TRÀNG AN
                TS. LÊ NGUYỆT HẢI NINH
                KHOA SƯ PHẠM TRUNG HỌC
-  - Năm xuất bản: 2024
-  - Nguồn: Google Scholar ( http://thuvien.hluv.edu.vn:8080/bitstream/DHLH123/559/1/NCKH_Hoang_Phuc_Ngan.pdf )
+- Năm xuất bản: 2024
+- Nguồn: Google Scholar ( http://thuvien.hluv.edu.vn:8080/bitstream/DHLH123/559/1/NCKH_Hoang_Phuc_Ngan.pdf )
 2. VẬN DỤNG PHƯƠNG PHÁP DẠY HỌC TÍCH CỰC TRONG DẠY HỌC TIẾNG VIỆT LỚP 5
 - Tác giả: Đinh Thị Khánh Huyền ( Người hướng dẫn: ThS. Bùi Thị Hồng )
 - Năm xuát bản: 2025
